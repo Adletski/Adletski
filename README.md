@@ -9,9 +9,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3>About Me :
-My name is Adlet.
-- I am iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- Exploring Technical Content.
-- In my free time, I solve problems on Leetcode and read tech articles.
-</h3>
+<h3>About Me :</h3>
+<p>My name is Adlet.</p>
+<p>- I am iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.</p>
+<p>- Exploring Technical Content.</p>
+<p>- In my free time, I solve problems on Leetcode and read tech articles.</p>
+
